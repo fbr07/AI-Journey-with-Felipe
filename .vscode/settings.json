@@ -1,0 +1,6 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.defaultFoldingRangeProvider": "ms-python.black-formatter""python.pythonPath": "C:\Users\FBR\AppData\Local\Programs\Python\Python312\python.exe"
+    }
+}
